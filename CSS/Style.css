@@ -1,0 +1,15 @@
+header {
+	background-image: url(../Assets/10007084696_f649ed938e_b.jpg);
+	
+}
+
+ul {
+	display: inherit;
+}
+
+
+p {
+	text-align: center;
+	font-size: 50px;
+	color: #ffffff;
+}
